@@ -1,0 +1,50 @@
+body
+{
+  color: white;
+  background-image: url("https://th.bing.com/th/id/OIP.tc3EH7hdg17ls6B3Vs7_LAHaFj?pid=ImgDet&rs=1");
+  
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.heading
+{
+font-size: 18px;
+border-radius: 10px;
+letter-spacing: 10px;
+}
+label
+{
+  font-size: 14px;
+  color:green;
+  padding: 10px;
+  border-radius: 10px;
+  background-color:white;
+}
+#selfie_para
+{
+  color: rgb(255, 72, 0);
+}
+button
+{
+  background-color: black;
+}
